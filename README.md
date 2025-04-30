@@ -1,10 +1,6 @@
 # Adivina-el-numero
 El jugador tendrá que adivinar el numero establecido por la computara el cual es aleatoreo y adivinarlo
-rio de GitHub:
 
-markdown
-Copiar
-Editar
 # 🎯 Juego de Adivinar el Número - PSeInt
 Este es un juego simple desarrollado en [PSeInt] donde el usuario debe adivinar un número secreto generado aleatoriamente entre 1 y 100.
 
